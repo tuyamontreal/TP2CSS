@@ -1,0 +1,204 @@
+<html>
+<link href="style1.css" rel="stylesheet" media="all" type="text/css">
+<head>
+	<title>5 outils de développement HTML</title>
+	<a><title>Les 5 sens</title></a>
+</head>
+<body>
+<!--menu-->
+<h1>5 outils de développement HTML</h1>
+	<a href="#1">1. Notepad++</a></br>
+	<a href="#2">2. Dreamweaver</a></br>
+	<a href="#3">3. Eclipse</a></br>
+	<a href="#4">4. EditPlus</a></br>
+	<a href="#5">5. WebStorm</a></br>
+	<a href="#6">tableau de l'ensemble des outils présentés</a></br>
+	</br><hr><hr>
+	
+<!--1111Un descriptif de l'outil avec des listes numérotées :>
+<!--Une copie d'écran-->
+<p><img src="Notepad++.png"></p></br>
+<!--Principales fonctionnalités
+ Forces
+ Limites-->
+<p><a name="1">1. Notepad++</a>
+		<ol>* descriptif du Notepad++ *</ol>
+		<li> Principales fonctionnalités</li>
+			<ol>
+				<li>Coloration Syntaxique et Relief Syntaxique(Syntax Folding)</li>
+				<li>Langage Défini par utilisateur</li>
+				<li>PCRE (Perl Compatible Regular Expression) pour la recherche et le remplacement</li>
+				<li>Document Map</li>
+				<li>Auto-complétion</li>
+				<li>Multi-documents (Les onglets)</li>
+				<li>Multi-vues</li>
+				<li>WYSIWYG (What You See Is What You Get - pour l'impression)</li>
+				<li>ZOOM IN et zoom out</li>
+				<li>Multilingue</li>
+				<li>Signet</li>
+				<li>Macro recording and playback</li>
+			</ol>
+		<li> Forces</li>
+			<ol>
+				<li>Notepad++ est un logicel opensource</li>
+				<li>Notepad++ est petit mais efficace</li>
+				<li>Notepad++ prend en charge 27 langages de programmation</li>
+				<li>Notepad++ remplace parfaitement le Bloc-notes de Microsoft</li>
+			</ol>
+		<li> Limites</li>
+			<ol>
+				<li>Notepad++ est lent de rechercher des chaînes de caractères dans plusieurs fichiers.</li>
+			</ol>
+<!--link--><a href="https://notepad-plus-plus.org/download/v7.7.1.html">Télécharger Notepad++</a></br>	
+<!--retourner-->		
+		<a href="#T">Retour</a><br><hr><hr></p>
+
+<!--222Une copie d'écran-->
+<p><a name="2">2. Dreamweaver</a>
+<p><img src="dreamweaver.jpg"></p></br>
+<!--descriptif-->
+		
+		<ol>* descriptif du Dreamweaver *</ol>
+		<li> Principales fonctionnalités</li>
+			<ol>
+				<li>Dreamweaver est un éditeur de site web et d'applications mobiles. </li>
+				<li>Dreamweaver offre deux modes de conception par son menu affichage.</li>
+				<li>Dreamweaver offre différents cadres, styles, modèles préparés.</li>
+			</ol>
+		<li> Forces</li>
+			<ol>
+				<li>« tel affichage, tel résultat »</li>
+				<li>il prend en charge le code, le fractionnement, la conception, les vues en temps réel, etc.</li>
+				<li>Pour les débutants, vous pouvez créer rapidement des pages Web sans écrire de code. </li>
+				<li>Affichage dynamique sur tous les appareils</li>
+			</ol>
+		<li> Limites</li>
+			<ol>
+				<li>Dreamweaver occupe une grande quantité de mémoire en cours d'exécution. Si le projet est volumineux, cela n'est pas recommandé.</li>
+				<li>Mauvaise lisibilité du code</li>
+				<li>La dépendance. Il est recommandé aux débutants de quitter la serre de Dreamweaver dès que possible et d’apprendre leur propre code.</li>
+			</ol>
+<!--link--><a href="https://www.adobe.com/ca_fr/products/dreamweaver.html">Télécharger Dreamweaver (version d'essai gratuite)</a></br>	
+<!--retourner-->		
+		<a href="#T">Retour</a><br><hr><hr></p>
+
+<!--333Une copie d'écran-->
+<a name="3">3. Eclipse</a>
+<p><img src="eclipse.png" alt="un concepteur" width=100% align="left"></p></br>
+<!--descriptif-->
+		
+		<ol>* descriptif du Eclipse *</ol>
+		<li> Principales fonctionnalités</li>
+			<ol>
+				<li>Eclipse est un projet, décliné et organisé en un ensemble de sous-projets de développements logiciels, de la fondation Eclipse visant à développer un environnement de production de logiciels libre qui soit extensible, universel et polyvalent, en s'appuyant principalement sur Java.</li>
+				<li>Son objectif est de produire et fournir des outils pour la réalisation de logiciels, englobant les activités de programmation (notamment environnement de développement intégré et frameworks) mais aussi d'AGL recouvrant modélisation, conception, test, gestion de configuration, reporting… Son EDI, partie intégrante du projet, vise notamment à supporter tout langage de programmation à l'instar de Microsoft Visual Studio.</li>
+			</ol>
+		<li> Forces</li>
+			<ol>
+				<li>Prise en charge de nombreux plugins.</li>
+				<li>Mise à jour rapide.</li>
+				<li>Les plugin sont puissants et gratuits. </li>
+				<li>Open source, gratuit.</li>
+			</ol>
+		<li> Limites</li>
+			<ol>
+				<li>Dans les grands projets, lorsque la mémoire et le processeur sont utilisés, le processus est lent, bloqué, en panne ou ne répond pas..</li>
+				<li>Le plugin a des exigences plus strictes sur la version eclipse, et la vitesse de mise à jour du plugin ne peut pas suivre la vitesse de mise à jour de l'éclipse.</li>
+				<li>Plus lent après avoir installé trop de plugins.</li>
+				<li>La conception de l’interface graphique WYSIWYG et de l’interface Web n’est pas satisfaisante.</li>
+			</ol>
+<!--link--><a href="https://www.eclipse.org/downloads/">Télécharger Eclipse</a></br>	
+<!--retourner-->		
+		<a href="#T">Retour</a><br><hr><hr>
+
+<!--444Une copie d'écran-->
+<a name="4">4. EditPlus</a>
+<p><img src="EditPlus.png" alt="un concepteur" width=100% align="left"></p></br>
+<!--descriptif-->
+		
+		<ol>* descriptif du EditPlus *</ol>
+		<li> Principales fonctionnalités</li>
+			<ol>
+				<li>EditPlus est un éditeur 32 bits petit mais puissant qui gère le texte, le HTML et les langages de programmation.</li>
+				<li>Par défaut, la coloration syntaxique telle que HTML, CSS, PHP, ASP, Perl, C / C ++, Java, JavaScript et VBScript est prise en charge.</li>
+			</ol>
+		<li> Forces</li>
+			<ol>
+				<li>Petit mais puissant.</li>
+				<li>EditPlus a un nombre illimité d'annulations et de restaurations.</li>
+				<li>L'interface est simple et belle. </li>
+				<li>La vitesse de démarrage est rapide.</li>
+			</ol>
+		<li> Limites</li>
+			<ol>
+				<li>L'indication de code n'est pas prise en charge</li>
+				<li>La mise à jour EditPlus est lente, les bugs FTP existent toujours.</li>
+				<li>EditPlus ne prend pas toujours en charge le transfert de fichiers à distance SCP.</li>
+				<li>Une fenêtre multi-travail est fournie. Ouvrir plusieurs documents dans la zone de travail sans basculer vers le bureau</li>
+			</ol>
+<!--link--><a href="https://www.editplus.com/download.html">Télécharger EditPlus</a></br>	
+<!--retourner-->		
+		<a href="#T">Retour</a><br><hr><hr>
+
+<!--555Une copie d'écran-->
+<a name="5">5. WebStorm</a>
+<p><img src="webstorm.png" alt="un concepteur" width=100% align="left"></p></br>
+<!--descriptif-->
+		
+		<ol>* descriptif du WebStorm *</ol>
+		<li> Principales fonctionnalités</li>
+			<ol>
+				<li>JavaScript</li>
+				<li>Analyse de code en vrac</li>
+				<li>Détecteur de code de répétition</li>
+			</ol>
+		<li> Forces</li>
+			<ol>
+				<li>Astuce largeur de l'image.</li>
+				<li>Refactoring de balises.</li>
+				<li>renommage de fichiers：Il mettra automatiquement à jour toutes les références. </li>
+				<li>Il prend en charge SASS, NodeJS, CoffeeScript et Jade.</li>
+				<li>Les paramètres sont consultables</li>
+				<li>Analyse de la structure de fichier</li>
+			</ol>
+		<li> Limites</li>
+			<ol>
+				<li>La mémoire du résident est d’environ 300 M, ne convient pas aux ordinateurs disposant de peu de mémoire</li>
+				<li>Le temps démarrer un projet dépend de la taille du projet.</li>
+			</ol>
+<!--link--><a href="https://www.jetbrains.com/webstorm/download/#section=windows">Télécharger WebStorm</a></br>	
+<!--retourner-->		
+		<a href="#T">Retour</a><br><hr>
+<!--table-->
+<hr>
+<a name="6"><table border=2 width=80% >
+	<tr align=center>
+		<td colspan=2>5 outils de développement HTML</td>
+	</tr>
+	<tr align=center>
+		<td width=25%>1</td>
+		<td width=75%>Notepad++</td>
+	</tr>
+	<tr align=center>
+		<td width=25%>2</td>
+		<td width=75%>Dreamweaver</td>
+	</tr>
+	<tr align=center>
+		<td width=25%>3</td>
+		<td width=75%>Eclipse</td>
+	</tr>
+	<tr align=center>
+		<td width=25%>4</td>
+		<td width=75%>EditPlus</td>
+	</tr>
+	<tr align=center>
+		<td width=25%>5</td>
+		<td width=75%>WebStorm</td>
+	</tr>
+	
+	
+</table>
+<!--retourner-->		
+		<a href="#T">Retour</a><br>
+</body>
+</html>

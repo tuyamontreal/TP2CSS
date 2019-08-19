@@ -1,0 +1,28 @@
+
+h1 {
+	font-family: calibri;
+	font-size: 28px;
+	font-style: bold;
+	color: blue;
+}
+h2 {
+	font-family: calibri;
+	font-size: 14px;
+	font-style: bold;
+	color: blue;
+}
+img {
+	margin:80px 80px 80px 80px;
+}
+.normal {font-style: normal}
+.citation {font-style: italic}
+.important {font-weight: bold}
+a:link {color: blue;text-decoration: underline; }
+a:visited {color: gray; }
+a:hover {color: yellow;text-decoration: none;}
+a:active {color: green;}
+
+html, body {
+margin: 5;
+padding: 15;
+}
